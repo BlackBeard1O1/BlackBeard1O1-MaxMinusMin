@@ -16,6 +16,6 @@ public class MaxMinusMin {
         int x = Collections.max(nums);
         int y = Collections.min(nums);
 
-        return x - y;
+        return x-y;
     }
 }
